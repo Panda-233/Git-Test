@@ -4,8 +4,8 @@ public class GitTest {
         System.out.println("Hello Git again~");
         System.out.println("Hello Git again again~");
         System.out.println("Hello Git again again again~");
-        System.out.println("Hello Git again again again~");
         System.out.println("Hello Git again again again again~");
         System.out.println("Hello Git again again again again again~");
+        System.out.println("Hello Git again again again again again again~");
     }
 }
